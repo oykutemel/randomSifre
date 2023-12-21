@@ -1,0 +1,2 @@
+# randomSifre
+Random sifre oluşturucu
